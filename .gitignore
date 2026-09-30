@@ -1,0 +1,26 @@
+# Environment - NEVER commit your API key
+.env
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules
+frontend/node_modules/
+frontend/dist/
+
+# Large data files
+data/raw/
+data/processed/*.faiss
+data/processed/*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

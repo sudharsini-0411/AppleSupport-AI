@@ -1,4 +1,4 @@
-# 🍏 AppleSupport AI — Customer Support Agent
+#  AppleSupport AI — Customer Support Agent
 
 An end-to-end, production-grade AI customer support platform designed for Apple customer service interactions. Powered by **Retrieval-Augmented Generation (RAG)** with **Sentence Transformers**, a high-performance **FAISS** vector database containing **97,800+ historical AppleSupport conversations**, **Google Gemini**, and a rule-guided **Intelligent Escalation Engine**, paired with a modern **React + Vite** web dashboard.
 
